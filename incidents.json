@@ -1,0 +1,98 @@
+[
+ {
+  "component": "Website",
+  "title": "Website is down",
+  "url": "https://github.com/deepghs/cheesecave-status/issues/2",
+  "issue": 2,
+  "opened_at": "2026-11-12T00:29:39Z",
+  "closed_at": "2026-11-13T05:52:30Z"
+ },
+ {
+  "component": "Site configuration",
+  "title": "Site configuration is down",
+  "url": "https://github.com/deepghs/cheesecave-status/issues/3",
+  "issue": 3,
+  "opened_at": "2026-11-12T00:29:39Z",
+  "closed_at": "2026-11-13T05:57:30Z"
+ },
+ {
+  "component": "API",
+  "title": "API is down",
+  "url": "https://github.com/deepghs/cheesecave-status/issues/4",
+  "issue": 4,
+  "opened_at": "2026-11-12T00:29:39Z",
+  "closed_at": "2026-11-13T05:57:30Z"
+ },
+ {
+  "component": "Repository listing",
+  "title": "Repository listing is down",
+  "url": "https://github.com/deepghs/cheesecave-status/issues/5",
+  "issue": 5,
+  "opened_at": "2026-11-12T00:29:39Z",
+  "closed_at": "2026-11-13T05:57:30Z"
+ },
+ {
+  "component": "Trending",
+  "title": "Trending is down",
+  "url": "https://github.com/deepghs/cheesecave-status/issues/6",
+  "issue": 6,
+  "opened_at": "2026-11-12T00:29:39Z",
+  "closed_at": "2026-11-13T05:57:30Z"
+ },
+ {
+  "component": "File tree",
+  "title": "File tree is down",
+  "url": "https://github.com/deepghs/cheesecave-status/issues/7",
+  "issue": 7,
+  "opened_at": "2026-11-12T00:29:39Z",
+  "closed_at": "2026-11-13T05:57:30Z"
+ },
+ {
+  "component": "Commit history",
+  "title": "Commit history is down",
+  "url": "https://github.com/deepghs/cheesecave-status/issues/8",
+  "issue": 8,
+  "opened_at": "2026-11-12T00:29:39Z",
+  "closed_at": "2026-11-13T05:57:30Z"
+ },
+ {
+  "component": "Git fetch",
+  "title": "Git fetch is down",
+  "url": "https://github.com/deepghs/cheesecave-status/issues/9",
+  "issue": 9,
+  "opened_at": "2026-11-12T00:29:39Z",
+  "closed_at": "2026-11-13T05:57:30Z"
+ },
+ {
+  "component": "Git LFS",
+  "title": "Git LFS is down",
+  "url": "https://github.com/deepghs/cheesecave-status/issues/10",
+  "issue": 10,
+  "opened_at": "2026-11-12T00:29:39Z",
+  "closed_at": "2026-11-13T05:57:30Z"
+ },
+ {
+  "component": "Small file download",
+  "title": "Small file download is down",
+  "url": "https://github.com/deepghs/cheesecave-status/issues/11",
+  "issue": 11,
+  "opened_at": "2026-11-12T00:29:39Z",
+  "closed_at": "2026-11-13T05:57:30Z"
+ },
+ {
+  "component": "Download speed",
+  "title": "Download speed is down",
+  "url": "https://github.com/deepghs/cheesecave-status/issues/12",
+  "issue": 12,
+  "opened_at": "2026-11-12T00:29:39Z",
+  "closed_at": "2026-11-13T05:57:30Z"
+ },
+ {
+  "component": "Avatar",
+  "title": "Avatar is down",
+  "url": "https://github.com/deepghs/cheesecave-status/issues/13",
+  "issue": 13,
+  "opened_at": "2026-11-12T00:29:39Z",
+  "closed_at": "2026-11-13T05:57:30Z"
+ }
+]
